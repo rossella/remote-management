@@ -1,0 +1,4 @@
+baseURL = "https://rossella.github.io/remote-management/"
+languageCode = "en-us"
+title = "Remote Management"
+theme = "ananke"
