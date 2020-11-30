@@ -1,4 +1,4 @@
 baseURL = "https://www.remotewego.it"
 languageCode = "en-us"
-title = "Remote Management1"
-theme = "hugo-kiera"
+title = "Remote Management"
+theme = "ananke"
