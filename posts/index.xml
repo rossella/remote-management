@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
    <title>Posts on Remote Management1</title>
-   <link>https://rossella.github.io/remote-management/posts/</link>
+   <link>https://www.remotewego.it/posts/</link>
    <description>Recent content in Posts on Remote Management1</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
    <lastBuildDate>Tue, 17 Nov 2020 19:01:28 +0100</lastBuildDate>
    
-       <atom:link href="https://rossella.github.io/remote-management/posts/index.xml" rel="self" type="application/rss+xml" />
+       <atom:link href="https://www.remotewego.it/posts/index.xml" rel="self" type="application/rss+xml" />
    
    
      <item>
        <title>Remote Meetings</title>
-       <link>https://rossella.github.io/remote-management/posts/remote-meetings/</link>
+       <link>https://www.remotewego.it/posts/remote-meetings/</link>
        <pubDate>Tue, 17 Nov 2020 19:01:28 +0100</pubDate>
        
-       <guid>https://rossella.github.io/remote-management/posts/remote-meetings/</guid>
+       <guid>https://www.remotewego.it/posts/remote-meetings/</guid>
        <description></description>
      </item>
    
