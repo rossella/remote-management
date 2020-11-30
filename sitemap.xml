@@ -5,24 +5,46 @@
   <url>
     <loc>https://www.remotewego.it/posts/</loc>
     <lastmod>2020-11-17T19:01:28+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.remotewego.it/</loc>
     <lastmod>2020-11-17T19:01:28+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.remotewego.it/posts/remote-meetings/</loc>
     <lastmod>2020-11-17T19:01:28+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.remotewego.it/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.remotewego.it/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.remotewego.it/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.remotewego.it/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
